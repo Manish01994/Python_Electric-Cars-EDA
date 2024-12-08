@@ -4,6 +4,8 @@ Electric Cars EDA with Feature Engineering
 This project provides an Exploratory Data Analysis (EDA) on electric cars, including feature engineering and insightful visualizations. The analysis aims to identify factors influencing electric vehicle adoption, market trends, and infrastructure needs.
 
 Project Overview:
+
+
 Objective:
 Electric cars are vital for reducing carbon emissions and fostering sustainable transportation. However, barriers like high costs, limited range, and inadequate charging infrastructure impede their widespread adoption. This project analyzes these challenges and provides actionable recommendations to enhance electric vehicle adoption.
 

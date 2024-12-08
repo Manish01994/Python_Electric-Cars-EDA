@@ -37,6 +37,8 @@ Infrastructure Expansion:
 Invest in charging stations to alleviate range anxiety.
 Awareness Campaigns:
 Highlight the environmental benefits to attract eco-conscious buyers.
+
+
 Contributors:
 Manish Sharma: Data Analysis and Feature Engineering
 Neeraj Sharma: Project Guidance

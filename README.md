@@ -14,7 +14,9 @@ Market Trends: Exploration of trends in electric vehicle adoption over the years
 Brand Analysis: Identification of the most popular electric vehicle manufacturers.
 Feature Engineering: Addressing data inconsistencies, handling missing values, and enhancing data utility.
 Recommendations: Policy suggestions based on observed market gaps.
-Dataset
+
+
+Dataset:
 The dataset includes information about electric vehicles registered in various regions. Key columns in the dataset include:
 
 Make and Model: Vehicle brands and models.
@@ -22,14 +24,20 @@ Electric Vehicle Type: BEV (Battery Electric Vehicle) or PHEV (Plug-in Hybrid El
 Electric Range: Distance a vehicle can travel on a full charge.
 CAFV Eligibility: Eligibility for clean fuel incentives.
 Charging Infrastructure: Role of electric utilities and geographical distribution.
+
+
 Key Findings:
 Electric Vehicle Adoption Trends
 Electric vehicle adoption has been increasing yearly, with significant surges in 2021 and 2022.
 Tesla is the dominant player in the market, followed by Nissan, Chevrolet, and Ford.
+
+
 Challenges Identified:
 Infrastructure Gaps: Limited charging stations in some regions.
 Range Limitations: Many vehicles lack sufficient range for broader adoption.
 High Costs: Some models remain inaccessible to a broad audience due to high costs.
+
+
 Recommendations:
 Incentives:
 Continue tax breaks and subsidies for electric vehicles to make them more affordable.
